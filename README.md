@@ -2,4 +2,6 @@ Application to take your personal finances income and expenses with graphics inc
 
 
 ![](https://raw.githubusercontent.com/CRIPXU/App-Personal-Finance/main/App-FInance1.png)
-![]()
+![](https://raw.githubusercontent.com/CRIPXU/App-Personal-Finance/main/App-FInance2.png)
+![](https://raw.githubusercontent.com/CRIPXU/App-Personal-Finance/main/App-FInance3.png)
+![](https://raw.githubusercontent.com/CRIPXU/App-Personal-Finance/main/App-FInance4.png)
